@@ -1,6 +1,9 @@
 html {
   font-size: 14px;
 }
+html, body {
+    touch-action: none;
+}
 
 body {
   background-color: #393a4e;
